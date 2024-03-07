@@ -1,2 +1,2 @@
-# SQL
-SQL (Structured Query Language) is a powerful tool for managing and manipulating relational databases. It allows users to retrieve, insert, update, and delete data from databases using simple, standardized syntax. SQL facilitates efficient data retrieval through queries and supports various operations like filtering, sorting, and aggregating data.
+# SQl
+This SQL repository houses a collection of scripts, queries, and database-related code snippets aimed at enhancing database management and optimization. Whether you're a novice looking to learn SQL fundamentals or an experienced developer seeking efficient database solutions, this repository provides a diverse range of SQL resources. 
